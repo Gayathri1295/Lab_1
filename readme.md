@@ -1,0 +1,1 @@
+# This python program is used for calculating the area of a rectangle.
